@@ -1,4 +1,4 @@
-# MyAI
+# MyFirstAI
 
 PyTorch로 MNIST 손글씨 숫자를 학습하고, 직접 그린 숫자를 예측해 보는 작은 CNN 프로젝트입니다.
 
